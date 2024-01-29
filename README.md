@@ -1,7 +1,7 @@
 Functionalities:
 - reads mathematical expressions from an input file, evaluates and prints them
 
-![screen cast](https://github.com/sudipbhandari126/live-evaluator/blob/main/screen_cast.gif)
+![screen cast](live_evaluator.gif)
 
 Uses:
 - fsnotify to watch the file changes
